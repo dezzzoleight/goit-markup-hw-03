@@ -198,6 +198,9 @@ ul {
     letter-spacing: 0.02em;
     color: var(--slate);
 }
+.feature-title-feature-strategy {
+    margin-bottom: 8px;
+}
 
 .advantage-li {
     flex-basis: calc((100% - 3 * 24px) / 4);
@@ -343,6 +346,3 @@ ul {
     color: #4d5ae5;
 }
 
-.third-header {
-    margin-bottom: 8px;
-}
